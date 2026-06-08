@@ -9,7 +9,7 @@ To write a C program to calculate the area of a triangle using pointer.
 3. Prompt the user to enter values.
 4. Read the values using scanf.
 5. Find the area of triangle using formula
-6. End  
+6. End   
 
 ## Program:
 ```
