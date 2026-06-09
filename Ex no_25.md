@@ -15,7 +15,7 @@ To write a C program to check whether a given character is a vowel or consonant 
 ```
 #include<stdio.h>
 int main()
-{
+{ 
     char a,*ptr1;
     scanf("%c",&a);
     ptr1=&a;
