@@ -8,7 +8,7 @@ To write a C program to store and display the name, id, age and salary of an emp
 3. Write program to to store and display the name, id, age and salary of an employee
 using structure(using array of structure).
 4. Read the value using scanf.
-5. Ask the user to make an input.
+5. Ask the user to make an input. 
 6. Print out the answer.
 7. End.  
 
