@@ -10,7 +10,7 @@ To write a C program to count total number of even elements in an array using ca
 5. Ask the user to make an input.
 6. Print out the answer.
 7. End.
-
+ 
 ## Program:
 ```
 #include<stdio.h>
