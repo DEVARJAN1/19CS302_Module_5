@@ -5,7 +5,7 @@ To Create a structure program to read(empno,dept and basic pay) and store the da
 
 ## Algorithm:
 1. Start.
-2. Define a variables.
+2. Define a variables. 
 3. Create a structure program to read(empno,dept and basic pay) and store the data of 3
 employees and calculate their Gross Salary(da =10% and HRA=30% from BP).
 4. Read the value using scanf.
